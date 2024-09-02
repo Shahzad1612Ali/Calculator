@@ -1,6 +1,6 @@
-#Calculator
+# Calculator
 This is a very basic standard calculator that performs only Arithmetic operations (Add, Subtract, Multiply and Divide).
-#Technologies : 
+# Technologies : 
 HTML
 CSS
 ReactJs
